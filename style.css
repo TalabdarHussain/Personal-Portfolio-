@@ -97,6 +97,22 @@
 
     #things {
         margin-top: 38px;
+        box-shadow: 100px;
+    }
+    
+    #prog {
+        margin-top: 15px;
     }
 
-  
+    #Tutor {
+        margin-right: 1px;
+    }
+
+    #Education {
+        margin-right: 65px;
+    }
+
+    #BSCS {
+        margin-right: -82px;
+    }
+
